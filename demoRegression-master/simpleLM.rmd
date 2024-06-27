@@ -18,42 +18,43 @@ bears$SEX<- as.factor(bears$SEX)
 bears$MONTH<- as.factor(bears$MONTH)
 ```
 
-## Model LENGTH ~ NECK  this is an example  
+## Model WEIGHT ~ NECK  this is an example  
 
 ```{r}
-simp <- lm(LENGTH~NECK,data=bears)
-plot(LENGTH~NECK,data=bears)
+simp <- lm(WEIGHT~NECK,data=bears)
+plot(WEIGHT~NECK,data=bears)
 abline(simp)
 summary.lm(simp)
 ```
   
-## Model LENGTH ~ AGE  this is an example  
+## Model WEIGHT ~ AGE  this is an example  
 
 ```{r}
-simp <- lm(LENGTH~AGE,data=bears)
-plot(LENGTH~AGE,data=bears)
+simp <- lm(WEIGHT~AGE,data=bears)
+plot(WEIGHT~AGE,data=bears)
 abline(simp)
 summary.lm(simp)
 ```
 
-## Model LENGTH ~ HEADLEN  this is an example  
+## Model WEIGHT ~ HEADLEN  this is an example  
 
 ```{r}
-simp <- lm(LENGTH~HEADLEN,data=bears)
-plot(LENGTH~HEADLEN,data=bears)
+simp <- lm(WEIGHT~HEADLEN,data=bears)
+plot(WEIGHT~HEADLEN,data=bears)
 abline(simp)
 summary.lm(simp)
 ```
 
-## Model LENGTH ~ HEADWTH  this is an example  
+## Model WEIGHT ~ HEADWTH  this is an example  
 
 ```{r}
-simp <- lm(LENGTH~HEADWTH,data=bears)
-plot(LENGTH~HEADWTH,data=bears)
+simp <- lm(WEIGHT~HEADWTH,data=bears)
+plot(WEIGHT~HEADWTH,data=bears)
 abline(simp)
 summary.lm(simp)
 ```
 
+## Model WEIGHT ~ HEADWTH  this is an example  
 
 
 
