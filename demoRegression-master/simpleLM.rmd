@@ -26,7 +26,34 @@ plot(LENGTH~NECK,data=bears)
 abline(simp)
 summary.lm(simp)
 ```
+  
+## Model LENGTH ~ AGE  this is an example  
+
+```{r}
+simp <- lm(LENGTH~AGE,data=bears)
+plot(LENGTH~AGE,data=bears)
+abline(simp)
+summary.lm(simp)
+```
+
+
+
+
+
+
+
 
 
 ## Compare all models that predict LENGTH other than NECK. Then order them from worst to best by its value of Adjusted-Rsquared (bigger is better), or by RSE (residual standard error) where smaller is better. 
+  
+Summary of all the plots  
+
+Neck: The RSE for this graph was 43.91 while the Adjusted R-squared was 0.7476  
+
+
+
+
+
+
+
 
