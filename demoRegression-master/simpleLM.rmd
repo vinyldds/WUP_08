@@ -77,6 +77,8 @@ summary.lm(simp)
   
 Summary of all the plots  
 
+Chest: The RSE for this graph was 33.08 while the Adjusted R-squared was  0.9262  
+
 Neck: The RSE for this graph was 43.91 while the Adjusted R-squared was 0.7476
 
 Length: The RSE for this graph was 61.83 while the Adjusted R-squared was 0.7423
@@ -85,9 +87,11 @@ Headlen: The RSE for this graph was 67.81 while the Adjusted R-squared was  0.69
 
 Headwth: The RSE for this graph was 76.41 while the Adjusted R-squared was 0.6064
 
-Age: The RSE for this graph was 81.47 while the Adjusted R-squared was 0.5073 
+Age: The RSE for this graph was 81.47 while the Adjusted R-squared was 0.5526 
 
 
 
 
 
+  
+After looking at all of the results of the graphs we can see that the graph wuth the tightest grouping is the Chest as it's Adjusted R-squared was 0.9262 which is the closest to 1 that we have. As-well as the graph with the widest spread was Age as it's Adjusted R-squared was 0.5526.
