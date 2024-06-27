@@ -56,7 +56,7 @@ Summary of all the plots
 
 Neck: The RSE for this graph was 43.91 while the Adjusted R-squared was 0.7476
 
-Headlen: The RSE for this graph was 67.81 while the Adjusted R-squared was  0.8434 
+Headlen: The RSE for this graph was 67.81 while the Adjusted R-squared was  0.69 
 
 Age: The RSE for this graph was 81.47 while the Adjusted R-squared was 0.5073 
 
