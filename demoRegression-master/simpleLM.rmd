@@ -45,7 +45,14 @@ abline(simp)
 summary.lm(simp)
 ```
 
+## Model LENGTH ~ HEADWTH  this is an example  
 
+```{r}
+simp <- lm(LENGTH~HEADWTH,data=bears)
+plot(LENGTH~HEADWTH,data=bears)
+abline(simp)
+summary.lm(simp)
+```
 
 
 
