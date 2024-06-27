@@ -48,9 +48,9 @@ summary.lm(simp)
   
 Summary of all the plots  
 
-Neck: The RSE for this graph was 43.91 while the Adjusted R-squared was 0.7476  
+Neck: The RSE for this graph was 43.91 while the Adjusted R-squared was 0.7476
 
-
+Age: The RSE for this graph was 81.47 while the Adjusted R-squared was 0.5073 
 
 
 
