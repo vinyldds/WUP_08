@@ -65,18 +65,20 @@ summary.lm(simp)
 
 
 
+
 ## Compare all models that predict LENGTH other than NECK. Then order them from worst to best by its value of Adjusted-Rsquared (bigger is better), or by RSE (residual standard error) where smaller is better. 
   
 Summary of all the plots  
 
 Neck: The RSE for this graph was 43.91 while the Adjusted R-squared was 0.7476
 
+Length: The RSE for this graph was 61.83 while the Adjusted R-squared was 0.7423
+
 Headlen: The RSE for this graph was 67.81 while the Adjusted R-squared was  0.69 
 
 Headwth: The RSE for this graph was 76.41 while the Adjusted R-squared was 0.6064
 
 Age: The RSE for this graph was 81.47 while the Adjusted R-squared was 0.5073 
-
 
 
 
